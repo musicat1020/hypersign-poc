@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "hs-ssi-sdk": "github:hypersign-protocol/hid-ssi-js-sdk"
+  },
+  "type": "module"
+}
