@@ -4,7 +4,6 @@ import { createWallet, mnemonic } from "./create-wallet.js";
 import { Bip39 } from "@cosmjs/crypto";
 import axios from "axios";
 import { ENV } from "./config.js";
-import testCred from "./test_cred.json" assert { type: "json" };
 
 
 const initializeHypersignSDK = async () => {
