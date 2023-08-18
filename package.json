@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
     "hs-ssi-sdk": "github:hypersign-protocol/hid-ssi-js-sdk"
   },
   "type": "module"
